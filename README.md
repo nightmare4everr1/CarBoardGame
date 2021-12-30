@@ -8,7 +8,7 @@ you can launch multiple instances of the app on same PC and act both as host and
 ___________________
 HOST INSTRUCTIONS:
 
-1)launch game
+1)launch game (snakesandladders.exe)
 
 2)Create Room with valid name
 
@@ -16,7 +16,7 @@ HOST INSTRUCTIONS:
 ___________________
 CLIENT INSTRUCTIONS:
 
-1)launch Game
+1)launch Game (snakesandladders.exe)
 
 2)type name of room host created and click JOIN
 
