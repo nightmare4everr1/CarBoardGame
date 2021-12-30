@@ -7,15 +7,19 @@ you can launch multiple instances of the app on same PC and act both as host and
 
 HOST Instructions 
 1)launch game
+
 2)Create Room with valid name
+
 3)Wait for Clients to connect
 
 CLIENT INSTRUCTIONS
 1)launch Game
+
 2)type name of room host created and click JOIN
 
 
 NOW when all clients connect
+
 Host will press START
 
 
